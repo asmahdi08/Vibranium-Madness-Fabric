@@ -10,7 +10,7 @@ import net.minecraft.village.VillagerProfession;
 
 public class ModTrades {
     public static void registerTrades(){
-        TradeOfferHelper.registerVillagerOffers(VillagerProfession.TOOLSMITH, 1, factories -> {
+        TradeOfferHelper.registerVillagerOffers(VillagerProfession.TOOLSMITH, 3, factories -> {
             factories.add((entity, random) -> new TradeOffer(
                     new TradedItem(Items.EMERALD, 10),
                     new ItemStack(ModItems.RAW_VIBRANIUM,1),
