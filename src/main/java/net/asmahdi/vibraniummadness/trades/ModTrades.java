@@ -14,7 +14,7 @@ public class ModTrades {
             factories.add((entity, random) -> new TradeOffer(
                     new TradedItem(Items.EMERALD, 10),
                     new ItemStack(ModItems.RAW_VIBRANIUM,1),
-                    7,
+                    20,
                     15,
                     2F
             ));
