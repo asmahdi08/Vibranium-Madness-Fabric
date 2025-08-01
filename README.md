@@ -19,6 +19,8 @@ Vibranium Madness introduces the iconic vibranium material from Marvel Cinematic
   - Blast Resistance: 1200.0 (compared to obsidian's 1200.0)
   - Requires proper tools to mine(Diamond Pickaxe at minimum)
   - Found in the Building Blocks creative tab
+    
+  <img width="383" height="345" alt="image" src="https://github.com/user-attachments/assets/4398829f-bb54-4e06-88e8-00abbc7da8de" />
 
 ### 🔧 Items
 - **Vibranium Ingot**: The refined form of vibranium, used for crafting advanced tools
@@ -28,6 +30,9 @@ Vibranium Madness introduces the iconic vibranium material from Marvel Cinematic
   - Mining Speed: 36.0 (compared to netherite's 9.0)
   - Attack Damage: 16.0 (compared to netherite's 4.0)
   - Enchantment Value: 19
+
+  <img width="164" height="52" alt="image" src="https://github.com/user-attachments/assets/2b365d19-789a-4e57-8faa-78f4175f079a" />
+
 
 ### 🛒 Trading
 - **Toolsmith Villager Trades**: 
