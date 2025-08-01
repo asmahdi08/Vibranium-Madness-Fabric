@@ -1,6 +1,6 @@
 # Vibranium Madness
 
-A Minecraft Fabric mod that adds the powerful metal vibranium to your world! Experience the strength and durability of this legendary material through new ores, ingots, blocks, and tools.
+A Minecraft Fabric mod that adds the powerful metal vibranium from Marvel Cinematic Universe to your world! Experience the strength and durability of this legendary material through new ores, ingots, blocks, and tools.
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.8-brightgreen)
 ![Fabric API](https://img.shields.io/badge/Fabric%20API-0.130.0-blue)
@@ -9,7 +9,7 @@ A Minecraft Fabric mod that adds the powerful metal vibranium to your world! Exp
 
 ## 📖 Overview
 
-Vibranium Madness introduces the iconic vibranium material into Minecraft, bringing you incredibly durable tools and building materials. Whether you're mining deep underground or building massive structures, vibranium will revolutionize your gameplay experience.
+Vibranium Madness introduces the iconic vibranium material from Marvel Cinematic Universe into Minecraft, bringing you incredibly durable tools and building materials. Whether you're mining deep underground or building massive structures, vibranium will revolutionize your gameplay experience.
 
 ## ✨ Features
 
@@ -17,24 +17,22 @@ Vibranium Madness introduces the iconic vibranium material into Minecraft, bring
 - **Raw Vibranium Block**: A storage block for raw vibranium with exceptional durability
   - Hardness: 50.0 (compared to obsidian's 50.0)
   - Blast Resistance: 1200.0 (compared to obsidian's 1200.0)
-  - Requires proper tools to mine
+  - Requires proper tools to mine(Diamond Pickaxe at minimum)
   - Found in the Building Blocks creative tab
 
 ### 🔧 Items
 - **Vibranium Ingot**: The refined form of vibranium, used for crafting advanced tools
-- **Raw Vibranium**: The unprocessed vibranium material
+- **Raw Vibranium**: The unprocessed vibranium material, collected from Toolsmith villagers
 - **Vibranium Pickaxe**: An incredibly powerful mining tool
-  - Durability: 2031 uses (compared to diamond's 1561)
-  - Mining Speed: 36.0 (compared to diamond's 8.0)
-  - Attack Damage: 16.0 (compared to diamond's 5.0)
-  - Enchantability: 19
+  - Durability: 2031 uses (compared to netherite's 2031)
+  - Mining Speed: 36.0 (compared to netherite's 9.0)
+  - Attack Damage: 16.0 (compared to netherite's 4.0)
+  - Enchantment Value: 19
 
 ### 🛒 Trading
 - **Toolsmith Villager Trades**: 
-  - Level 1: Trade 10 emeralds for 1 raw vibranium
-  - Limited stock: 7 trades per villager
-  - Restocks 15 times
-  - Provides 2 experience points per trade
+  - Level 4 (Expert): Trade 16 emeralds for 1 raw vibranium
+  - Limited stock: 20 trades per villager
 
 ## 🔧 Installation
 
@@ -55,7 +53,7 @@ Vibranium Madness introduces the iconic vibranium material into Minecraft, bring
 
 ### Getting Started
 1. **Find a Toolsmith Villager**: Trade emeralds for raw vibranium to get started
-2. **Smelt Raw Vibranium**: Process raw vibranium into vibranium ingots (smelting recipes to be added)
+2. **Process Raw Vibranium**: Craft raw vibranium into vibranium ingots with 4 Raw Vibranium and 3 Iron Ingots
 3. **Craft Tools**: Use vibranium ingots to create powerful tools
 4. **Build with Vibranium**: Create decorative and functional blocks with raw vibranium blocks
 
