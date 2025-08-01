@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "R":"vibranium-madness:vibranium_ingot",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "vibranium-madness:vibranium_pickaxe",
+    "count": 1
+  }
+}

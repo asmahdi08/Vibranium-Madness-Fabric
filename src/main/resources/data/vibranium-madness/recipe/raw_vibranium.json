@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " RR",
+    "RRI",
+    "II "
+  ],
+  "key": {
+    "R":"vibranium-madness:raw_vibranium",
+    "I":"minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "vibranium-madness:vibranium_ingot",
+    "count": 1
+  }
+}
