@@ -12,7 +12,7 @@ public class ModTrades {
     public static void registerTrades(){
         TradeOfferHelper.registerVillagerOffers(VillagerProfession.TOOLSMITH, 3, factories -> {
             factories.add((entity, random) -> new TradeOffer(
-                    new TradedItem(Items.EMERALD, 10),
+                    new TradedItem(Items.EMERALD, 16),
                     new ItemStack(ModItems.RAW_VIBRANIUM,1),
                     20,
                     15,
