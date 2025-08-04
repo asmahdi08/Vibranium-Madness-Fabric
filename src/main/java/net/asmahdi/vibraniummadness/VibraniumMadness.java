@@ -1,6 +1,7 @@
 package net.asmahdi.vibraniummadness;
 
 import net.asmahdi.vibraniummadness.blocks.ModBlocks;
+import net.asmahdi.vibraniummadness.component.ModDataComponentTypes;
 import net.asmahdi.vibraniummadness.item.ModItems;
 import net.asmahdi.vibraniummadness.trades.ModTrades;
 import net.fabricmc.api.ModInitializer;
@@ -35,5 +36,7 @@ public class VibraniumMadness implements ModInitializer {
 		ModBlocks.initialize();
 
 		ModTrades.registerTrades();
+
+		ModDataComponentTypes.registerDataComponentTypes();
 	}
 }

@@ -1,6 +1,7 @@
 package net.asmahdi.vibraniummadness.item;
 
 import net.asmahdi.vibraniummadness.VibraniumMadness;
+import net.asmahdi.vibraniummadness.item.ModItemClasses.VibraniumPickaxe;
 import net.asmahdi.vibraniummadness.toolmaterials.ModToolMaterials;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
@@ -44,7 +45,7 @@ public class ModItems {
     public static final Item VIBRANIUM_PICKAXE = register(
             "vibranium_pickaxe",
             Item::new,
-            new Item.Settings().pickaxe(ModToolMaterials.VIBRANIUM_TOOL_MATERIAL,1.0F,0.0F)
+            new Item.Settings().pickaxe(ModToolMaterials.VIBRANIUM_TOOL_MATERIAL,1.0F,0.0F).enchantable(22)
     );
 
     public static void registerModItems(){

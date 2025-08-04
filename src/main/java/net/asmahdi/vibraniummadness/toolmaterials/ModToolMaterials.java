@@ -18,7 +18,7 @@ public class ModToolMaterials {
             2031,
             36.0F,
             16.0F,
-            19,
+            22,
             REPAIRS_VIBRANIUM_TOOLS
     );
 
