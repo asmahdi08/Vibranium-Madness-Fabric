@@ -28,8 +28,10 @@ Vibranium Madness introduces the iconic vibranium material from Marvel Cinematic
 - **Vibranium Pickaxe**: An incredibly powerful mining tool
   - Durability: 2031 uses (compared to netherite's 2031)
   - Mining Speed: 36.0 (compared to netherite's 9.0)
-  - Attack Damage: 16.0 (compared to netherite's 4.0)
-  - Enchantment Value: 19
+  - Attack Damage: 4.0
+  - Enchantment Value: 22
+  - **Superpower:** Upon Right Clicking, it creates a 3x3x3 hole around the targeted block. This superpower has a 5 second cooldown.
+
 
   <img width="164" height="52" alt="image" src="https://github.com/user-attachments/assets/2b365d19-789a-4e57-8faa-78f4175f079a" />
 
