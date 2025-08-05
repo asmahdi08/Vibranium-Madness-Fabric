@@ -44,8 +44,8 @@ public class ModItems {
 
     public static final Item VIBRANIUM_PICKAXE = register(
             "vibranium_pickaxe",
-            Item::new,
-            new Item.Settings().pickaxe(ModToolMaterials.VIBRANIUM_TOOL_MATERIAL,1.0F,0.0F).enchantable(22)
+            VibraniumPickaxe::new,
+            new VibraniumPickaxe.Settings().pickaxe(ModToolMaterials.VIBRANIUM_TOOL_MATERIAL,1.0F,0.0F).enchantable(22)
     );
 
     public static void registerModItems(){
