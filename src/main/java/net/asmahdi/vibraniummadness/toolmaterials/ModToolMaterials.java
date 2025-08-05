@@ -17,7 +17,7 @@ public class ModToolMaterials {
             BlockTags.AIR,
             2031,
             36.0F,
-            16.0F,
+            4.0F,
             22,
             REPAIRS_VIBRANIUM_TOOLS
     );
